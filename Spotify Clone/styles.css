@@ -5,5 +5,8 @@
 }
 .navbar{
     display: flex;
-    
+
+}
+.nav-logo{
+    display: flex;
 }
